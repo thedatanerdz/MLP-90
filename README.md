@@ -1,5 +1,6 @@
 # MLP-90
 **Deep learning topics:**
+
 *Deep leaarning basics:*
 - Neurons
 - Neural networks

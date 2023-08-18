@@ -41,4 +41,7 @@
 
 *Deep learning hardware:*
 - GPU benchmark
-- Distributed training using NVIDIA DGX Station A100 
+- Distributed training using NVIDIA DGX Station A100
+
+*Deep learning software:*
+- Tensorboard

@@ -43,5 +43,5 @@
 - GPU benchmark
 - Distributed training using NVIDIA DGX Station A100
 
-*Deep learning software:*
+*Deep learning tools:*
 - Tensorboard
